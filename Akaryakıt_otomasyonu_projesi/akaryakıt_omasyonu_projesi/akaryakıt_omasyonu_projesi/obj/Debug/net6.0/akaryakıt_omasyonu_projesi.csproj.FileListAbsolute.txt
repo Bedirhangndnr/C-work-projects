@@ -1,0 +1,15 @@
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\Akaryakıt_otomasyonu_projesi\akaryakıt_omasyonu_projesi\akaryakıt_omasyonu_projesi\obj\Debug\net6.0\akaryakıt_omasyonu_projesi.csproj.AssemblyReference.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\Akaryakıt_otomasyonu_projesi\akaryakıt_omasyonu_projesi\akaryakıt_omasyonu_projesi\obj\Debug\net6.0\akaryakıt_omasyonu_projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\Akaryakıt_otomasyonu_projesi\akaryakıt_omasyonu_projesi\akaryakıt_omasyonu_projesi\obj\Debug\net6.0\akaryakıt_omasyonu_projesi.AssemblyInfoInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\Akaryakıt_otomasyonu_projesi\akaryakıt_omasyonu_projesi\akaryakıt_omasyonu_projesi\obj\Debug\net6.0\akaryakıt_omasyonu_projesi.AssemblyInfo.cs
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\Akaryakıt_otomasyonu_projesi\akaryakıt_omasyonu_projesi\akaryakıt_omasyonu_projesi\obj\Debug\net6.0\akaryakıt_omasyonu_projesi.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\Akaryakıt_otomasyonu_projesi\akaryakıt_omasyonu_projesi\akaryakıt_omasyonu_projesi\bin\Debug\net6.0\akaryakıt_omasyonu_projesi.exe
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\Akaryakıt_otomasyonu_projesi\akaryakıt_omasyonu_projesi\akaryakıt_omasyonu_projesi\bin\Debug\net6.0\akaryakıt_omasyonu_projesi.deps.json
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\Akaryakıt_otomasyonu_projesi\akaryakıt_omasyonu_projesi\akaryakıt_omasyonu_projesi\bin\Debug\net6.0\akaryakıt_omasyonu_projesi.runtimeconfig.json
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\Akaryakıt_otomasyonu_projesi\akaryakıt_omasyonu_projesi\akaryakıt_omasyonu_projesi\bin\Debug\net6.0\akaryakıt_omasyonu_projesi.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\Akaryakıt_otomasyonu_projesi\akaryakıt_omasyonu_projesi\akaryakıt_omasyonu_projesi\bin\Debug\net6.0\ref\akaryakıt_omasyonu_projesi.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\Akaryakıt_otomasyonu_projesi\akaryakıt_omasyonu_projesi\akaryakıt_omasyonu_projesi\bin\Debug\net6.0\akaryakıt_omasyonu_projesi.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\Akaryakıt_otomasyonu_projesi\akaryakıt_omasyonu_projesi\akaryakıt_omasyonu_projesi\obj\Debug\net6.0\akaryakıt_omasyonu_projesi.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\Akaryakıt_otomasyonu_projesi\akaryakıt_omasyonu_projesi\akaryakıt_omasyonu_projesi\obj\Debug\net6.0\ref\akaryakıt_omasyonu_projesi.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\Akaryakıt_otomasyonu_projesi\akaryakıt_omasyonu_projesi\akaryakıt_omasyonu_projesi\obj\Debug\net6.0\akaryakıt_omasyonu_projesi.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\Akaryakıt_otomasyonu_projesi\akaryakıt_omasyonu_projesi\akaryakıt_omasyonu_projesi\obj\Debug\net6.0\akaryakıt_omasyonu_projesi.genruntimeconfig.cache

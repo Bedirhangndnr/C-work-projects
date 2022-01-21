@@ -1,0 +1,15 @@
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_operations\file_and_folder_operations\bin\Debug\net6.0\file_and_folder_operations.exe
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_operations\file_and_folder_operations\bin\Debug\net6.0\file_and_folder_operations.deps.json
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_operations\file_and_folder_operations\bin\Debug\net6.0\file_and_folder_operations.runtimeconfig.json
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_operations\file_and_folder_operations\bin\Debug\net6.0\file_and_folder_operations.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_operations\file_and_folder_operations\bin\Debug\net6.0\ref\file_and_folder_operations.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_operations\file_and_folder_operations\bin\Debug\net6.0\file_and_folder_operations.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_operations\file_and_folder_operations\obj\Debug\net6.0\file_and_folder_operations.csproj.AssemblyReference.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_operations\file_and_folder_operations\obj\Debug\net6.0\file_and_folder_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_operations\file_and_folder_operations\obj\Debug\net6.0\file_and_folder_operations.AssemblyInfoInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_operations\file_and_folder_operations\obj\Debug\net6.0\file_and_folder_operations.AssemblyInfo.cs
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_operations\file_and_folder_operations\obj\Debug\net6.0\file_and_folder_operations.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_operations\file_and_folder_operations\obj\Debug\net6.0\file_and_folder_operations.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_operations\file_and_folder_operations\obj\Debug\net6.0\ref\file_and_folder_operations.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_operations\file_and_folder_operations\obj\Debug\net6.0\file_and_folder_operations.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_operations\file_and_folder_operations\obj\Debug\net6.0\file_and_folder_operations.genruntimeconfig.cache
