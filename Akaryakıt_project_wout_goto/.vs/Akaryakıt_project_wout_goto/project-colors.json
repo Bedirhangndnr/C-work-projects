@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3a90dcac-5246-40f4-8482-7b42699c68d1": {
+      "ProjectGuid": "3a90dcac-5246-40f4-8482-7b42699c68d1",
+      "DisplayName": "Akaryakıt_project_wout_goto",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
