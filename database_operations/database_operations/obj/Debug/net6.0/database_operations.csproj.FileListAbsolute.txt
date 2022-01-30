@@ -1,0 +1,15 @@
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\database_operations\database_operations\bin\Debug\net6.0\database_operations.exe
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\database_operations\database_operations\bin\Debug\net6.0\database_operations.deps.json
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\database_operations\database_operations\bin\Debug\net6.0\database_operations.runtimeconfig.json
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\database_operations\database_operations\bin\Debug\net6.0\database_operations.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\database_operations\database_operations\bin\Debug\net6.0\ref\database_operations.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\database_operations\database_operations\bin\Debug\net6.0\database_operations.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\database_operations\database_operations\obj\Debug\net6.0\database_operations.csproj.AssemblyReference.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\database_operations\database_operations\obj\Debug\net6.0\database_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\database_operations\database_operations\obj\Debug\net6.0\database_operations.AssemblyInfoInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\database_operations\database_operations\obj\Debug\net6.0\database_operations.AssemblyInfo.cs
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\database_operations\database_operations\obj\Debug\net6.0\database_operations.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\database_operations\database_operations\obj\Debug\net6.0\database_operations.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\database_operations\database_operations\obj\Debug\net6.0\ref\database_operations.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\database_operations\database_operations\obj\Debug\net6.0\database_operations.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\database_operations\database_operations\obj\Debug\net6.0\database_operations.genruntimeconfig.cache

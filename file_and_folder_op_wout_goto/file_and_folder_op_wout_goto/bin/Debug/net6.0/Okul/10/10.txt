@@ -1,0 +1,6 @@
+ogrenci no:10
+adıleo
+soyadimessi
+cinsiyete
+telefon no:2020202020
+adresargantinia

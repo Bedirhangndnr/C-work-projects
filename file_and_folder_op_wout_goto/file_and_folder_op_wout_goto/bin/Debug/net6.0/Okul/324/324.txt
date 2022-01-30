@@ -1,0 +1,6 @@
+ogrenci no:213123
+adı123
+soyadi123
+cinsiyet123
+tel no123
+adres:123

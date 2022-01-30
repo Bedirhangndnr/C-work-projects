@@ -1,0 +1,15 @@
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_op_wout_goto\file_and_folder_op_wout_goto\bin\Debug\net6.0\file_and_folder_op_wout_goto.exe
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_op_wout_goto\file_and_folder_op_wout_goto\bin\Debug\net6.0\file_and_folder_op_wout_goto.deps.json
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_op_wout_goto\file_and_folder_op_wout_goto\bin\Debug\net6.0\file_and_folder_op_wout_goto.runtimeconfig.json
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_op_wout_goto\file_and_folder_op_wout_goto\bin\Debug\net6.0\file_and_folder_op_wout_goto.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_op_wout_goto\file_and_folder_op_wout_goto\bin\Debug\net6.0\ref\file_and_folder_op_wout_goto.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_op_wout_goto\file_and_folder_op_wout_goto\bin\Debug\net6.0\file_and_folder_op_wout_goto.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_op_wout_goto\file_and_folder_op_wout_goto\obj\Debug\net6.0\file_and_folder_op_wout_goto.csproj.AssemblyReference.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_op_wout_goto\file_and_folder_op_wout_goto\obj\Debug\net6.0\file_and_folder_op_wout_goto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_op_wout_goto\file_and_folder_op_wout_goto\obj\Debug\net6.0\file_and_folder_op_wout_goto.AssemblyInfoInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_op_wout_goto\file_and_folder_op_wout_goto\obj\Debug\net6.0\file_and_folder_op_wout_goto.AssemblyInfo.cs
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_op_wout_goto\file_and_folder_op_wout_goto\obj\Debug\net6.0\file_and_folder_op_wout_goto.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_op_wout_goto\file_and_folder_op_wout_goto\obj\Debug\net6.0\file_and_folder_op_wout_goto.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_op_wout_goto\file_and_folder_op_wout_goto\obj\Debug\net6.0\ref\file_and_folder_op_wout_goto.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_op_wout_goto\file_and_folder_op_wout_goto\obj\Debug\net6.0\file_and_folder_op_wout_goto.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#\Exercises\file_and_folder_op_wout_goto\file_and_folder_op_wout_goto\obj\Debug\net6.0\file_and_folder_op_wout_goto.genruntimeconfig.cache

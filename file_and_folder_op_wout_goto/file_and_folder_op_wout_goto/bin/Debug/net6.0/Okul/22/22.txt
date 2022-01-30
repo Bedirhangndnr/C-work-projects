@@ -1,0 +1,6 @@
+ogrenci no:2
+adı2
+soyadi2
+cinsiyet2
+tel no2
+adres:2
