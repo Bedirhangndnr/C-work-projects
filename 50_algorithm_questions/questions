@@ -1,0 +1,49 @@
+
+1. Kullanıcıdan 2 sayı al ve bunların toplamını ekrana yazdır.
+2. Ekrana 10 defa adını yazdır
+3. Kullanıcıdan alınan bir sayı kadar ekrana adını yazdır
+4. Kullanıcıdan bir sayı ve bir metin alarak ekrana girilen sayı kadar girilen metni yazdır.
+5. Kullanıcıdan iki sayı al ve aralarındaki sayıları ekrana yaz
+6. Kullanıcıdan iki sayı al ve aralarındaki çift sayıları yazdır
+7. Kullanıcıdan iki sayı al ve aralarındaki tek sayıları yazdır
+8. Kişinin doğum tarihini al ve ekrana yaşını yaz
+9. Kulanıcıdan iki sayı al ve çarpma işlemi ile çarpımı ekrana yazdır
+10. Kullanıcıdan 5 sayı al ve toplamlarını ekrana yazdır
+11. Kullanıcıdan 30 say al ve ortalamalarını ekrana yazdır
+12. Kullanıcıya kaç sayı girmek istediğini sor ve o kadar sayı girişine izin ver. Sonra bu sayıların ortalamasını ekrana yazdır
+13. Kullanıcıdan iki sayı alınız ve ekrana büyük olanı yazdır.
+14. Kullanıcıdan 100 sayı al ve ekrana en küçük sayıyı yazdır
+15. Kullanıcıya kaç sayı girmek istediğini sor ve o kadar sayı girişine izin ver. Sonra bu sayıların en büyüğünü ekrana yazdır
+16. Kullanıcıdan 50 sayı alınız ve ekrana büyükçift sayıyı yazdır.
+17. Kullanıcının girdiği sayının faktöriyelini hesaplayınız.
+18. Kullanıcının girdiği sayıdan küçük Fibonacci dizisini ekrana yazınız
+19. Kullanıcıdan üçgenin dik kenarlarını girmesini isteyerek hipotenüs uzunluğunu hesaplayalım
+20. Kullanıcıdan 2 sayı alıp bölme işlemini kullanarak ilk sayıyı ikinci sayıya bölünüz
+21. Kullanıcıdan 2 sayı al ve ikinciyi ilkinin üstü olacak şekilde sonucu ekrana yazdır
+22. Kullanıcıdan 20 tane doğuum tarihi al ve bu kişilerin yaş ortalamasını hesaplayıp ekrana yazdır
+23. Kullanıcıdan 100 sayı al 3 e bölünenlerin,2 ye bölünenlerin ve 6 ya bölünenlerin ortalamalarını ayrı ayrı ekrana yazdır.
+24. Kullanıcıdan istediği kadar sayı al ve sayı girişi bitince ortalamayı ekrana yazdır
+25. 100 sayı al 2 ve 3 ün katı olanların otalamsını ekrana yazdır
+26. Öğrencinin 100 lük sisteme göre aldığı 3 sınav notunun ortalamasını hesapla ve 5 lik sisteme göre karşılığını ekrana yazdır
+27. Verilen tamsayıının sıfır,pozitif,negative olduğunun kontrolünü sağla
+28. Klavyeden girilen fahrenaytı santigrata çeviren programı yazınız
+29. Suyun sıcaklığına göre katı sıvı yada gaz olduğunu ekrana yazan programı yazınız
+30. Girilen yarıçapa göre kürenin hacmini hesaplayınız
+31. Kullanıcıdan ürün fiyatı al ve %18 kdv ekleyerek tutarı ekrana yazdır
+32. Kullanıcıdan istediği kadar sayı al ve girdiği sayı adedi tekse girilen sayıları topla, sayı adedi çiftse girilen sayıları çarp sonucu ekrana yazdır
+33. Kullanıcıdan alıınan sayıya kadar olan sayıları ekrana yazdır
+34. Kullanıcıdan alınan sayı ekrana adını yazdır(while ile)
+35. Kullanıcıdan 2 sayı al ve çarpımlarını ekrana yaz (çarpma işlemini kullanmadan)
+36. Kullanıcıdan 2 sayı al ve 1. Sayıyı 2. Sayıya böl(bölme işlemi kullanmadan)
+37. Aşşağıdakii şekilleri önce olduları gibi sonar da kullanıcıdan satır veya sütün girişi alarak çiziniz.
+    
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/88ac970a-ba86-4aef-9408-892b7b79fb90/Untitled.png)
+    
+38. Kullanıcıdan 2 sayı al ve aralarındaki çift sayıları büyükten küçüge sıralı şekilde yazdır
+39. Kulalnıcıdan 1000 sayı al ve bunları alt alta ekrana yaz
+40. Kullanıcıdan 100 sayı al sonar girilen sayılardan teklerii ve çiftleri ayrı ayrı yazdır
+41. Kullanıcıya kaç sayı gireceğini sor. Okadar sayı al ve ortalamayı hesapla. En son da girilen sayılardan ortalmanın altında olanları ekrana yazdır
+42. Kullanıcıya kaç sayı gireceğini sor. Okadar sayı al ve girlen sayıları girlenin tersi şeklinde ekrana yazdır
+43. Kullanıcıdan vize ve final notlarının girilmesini iste. Vizenin %40 I finalin %60 ı olacak şekilde ortalama hesapla ve ortalama 50 nin üstündeyse dersten geçir. Altındaysa final yerine büt sınavının notunu girmesini iste ve yine vize %40 büt %60 olacak şekilde ortalama hesapla. Eğer ortalama 50 den fazlaysa geçtiğini değilse kaldığını ekrana yazdır
+44. 2 matrisin toplamını sağla.
+45. 2 matrisin çarpımını sağla.
