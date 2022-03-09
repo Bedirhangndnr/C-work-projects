@@ -1,0 +1,17 @@
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\bin\Debug\net6.0-windows\listViewExample.exe
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\bin\Debug\net6.0-windows\listViewExample.deps.json
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\bin\Debug\net6.0-windows\listViewExample.runtimeconfig.json
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\bin\Debug\net6.0-windows\listViewExample.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\bin\Debug\net6.0-windows\ref\listViewExample.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\bin\Debug\net6.0-windows\listViewExample.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\obj\Debug\net6.0-windows\listViewExample.csproj.AssemblyReference.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\obj\Debug\net6.0-windows\listViewExample.Form1.resources
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\obj\Debug\net6.0-windows\listViewExample.csproj.GenerateResource.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\obj\Debug\net6.0-windows\listViewExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\obj\Debug\net6.0-windows\listViewExample.AssemblyInfoInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\obj\Debug\net6.0-windows\listViewExample.AssemblyInfo.cs
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\obj\Debug\net6.0-windows\listViewExample.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\obj\Debug\net6.0-windows\listViewExample.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\obj\Debug\net6.0-windows\ref\listViewExample.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\obj\Debug\net6.0-windows\listViewExample.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\listViewExample\listViewExample\obj\Debug\net6.0-windows\listViewExample.genruntimeconfig.cache

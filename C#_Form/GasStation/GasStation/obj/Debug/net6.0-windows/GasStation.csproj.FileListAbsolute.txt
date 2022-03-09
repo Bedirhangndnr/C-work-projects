@@ -1,0 +1,17 @@
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\bin\Debug\net6.0-windows\GasStation.exe
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\bin\Debug\net6.0-windows\GasStation.deps.json
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\bin\Debug\net6.0-windows\GasStation.runtimeconfig.json
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\bin\Debug\net6.0-windows\GasStation.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\bin\Debug\net6.0-windows\ref\GasStation.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\bin\Debug\net6.0-windows\GasStation.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\obj\Debug\net6.0-windows\GasStation.csproj.AssemblyReference.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\obj\Debug\net6.0-windows\GasStation.Form1.resources
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\obj\Debug\net6.0-windows\GasStation.csproj.GenerateResource.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\obj\Debug\net6.0-windows\GasStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\obj\Debug\net6.0-windows\GasStation.AssemblyInfoInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\obj\Debug\net6.0-windows\GasStation.AssemblyInfo.cs
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\obj\Debug\net6.0-windows\GasStation.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\obj\Debug\net6.0-windows\GasStation.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\obj\Debug\net6.0-windows\ref\GasStation.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\obj\Debug\net6.0-windows\GasStation.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\GasStation\GasStation\obj\Debug\net6.0-windows\GasStation.genruntimeconfig.cache

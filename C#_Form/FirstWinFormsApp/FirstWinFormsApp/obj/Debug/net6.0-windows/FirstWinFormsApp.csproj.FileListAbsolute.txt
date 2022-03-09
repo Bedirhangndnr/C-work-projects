@@ -1,0 +1,17 @@
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\obj\Debug\net6.0-windows\FirstWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\obj\Debug\net6.0-windows\FirstWinFormsApp.Form1.resources
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\obj\Debug\net6.0-windows\FirstWinFormsApp.csproj.GenerateResource.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\obj\Debug\net6.0-windows\FirstWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\obj\Debug\net6.0-windows\FirstWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\obj\Debug\net6.0-windows\FirstWinFormsApp.AssemblyInfo.cs
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\obj\Debug\net6.0-windows\FirstWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\bin\Debug\net6.0-windows\FirstWinFormsApp.exe
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\bin\Debug\net6.0-windows\FirstWinFormsApp.deps.json
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\bin\Debug\net6.0-windows\FirstWinFormsApp.runtimeconfig.json
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\bin\Debug\net6.0-windows\FirstWinFormsApp.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\bin\Debug\net6.0-windows\ref\FirstWinFormsApp.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\bin\Debug\net6.0-windows\FirstWinFormsApp.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\obj\Debug\net6.0-windows\FirstWinFormsApp.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\obj\Debug\net6.0-windows\ref\FirstWinFormsApp.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\obj\Debug\net6.0-windows\FirstWinFormsApp.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\FirstWinFormsApp\FirstWinFormsApp\obj\Debug\net6.0-windows\FirstWinFormsApp.genruntimeconfig.cache

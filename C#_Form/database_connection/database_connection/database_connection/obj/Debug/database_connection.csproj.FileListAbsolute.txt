@@ -1,0 +1,15 @@
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\database_connection\database_connection\database_connection\bin\Debug\EGE-PC.mdf
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\database_connection\database_connection\database_connection\bin\Debug\EGE-PC_log.ldf
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\database_connection\database_connection\database_connection\bin\Debug\Ornek.mdf
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\database_connection\database_connection\database_connection\bin\Debug\Ornek_log.ldf
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\database_connection\database_connection\database_connection\bin\Debug\database_connection.exe.config
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\database_connection\database_connection\database_connection\bin\Debug\database_connection.exe
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\database_connection\database_connection\database_connection\bin\Debug\database_connection.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\database_connection\database_connection\database_connection\obj\Debug\database_connection.csproj.AssemblyReference.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\database_connection\database_connection\database_connection\obj\Debug\database_connection.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\database_connection\database_connection\database_connection\obj\Debug\database_connection.Form1.resources
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\database_connection\database_connection\database_connection\obj\Debug\database_connection.Properties.Resources.resources
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\database_connection\database_connection\database_connection\obj\Debug\database_connection.csproj.GenerateResource.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\database_connection\database_connection\database_connection\obj\Debug\database_connection.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\database_connection\database_connection\database_connection\obj\Debug\database_connection.exe
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\database_connection\database_connection\database_connection\obj\Debug\database_connection.pdb

@@ -1,0 +1,17 @@
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\bin\Debug\net6.0-windows\JOB_APPLICATION.exe
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\bin\Debug\net6.0-windows\JOB_APPLICATION.deps.json
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\bin\Debug\net6.0-windows\JOB_APPLICATION.runtimeconfig.json
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\bin\Debug\net6.0-windows\JOB_APPLICATION.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\bin\Debug\net6.0-windows\ref\JOB_APPLICATION.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\bin\Debug\net6.0-windows\JOB_APPLICATION.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\obj\Debug\net6.0-windows\JOB_APPLICATION.csproj.AssemblyReference.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\obj\Debug\net6.0-windows\JOB_APPLICATION.Form1.resources
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\obj\Debug\net6.0-windows\JOB_APPLICATION.csproj.GenerateResource.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\obj\Debug\net6.0-windows\JOB_APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\obj\Debug\net6.0-windows\JOB_APPLICATION.AssemblyInfoInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\obj\Debug\net6.0-windows\JOB_APPLICATION.AssemblyInfo.cs
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\obj\Debug\net6.0-windows\JOB_APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\obj\Debug\net6.0-windows\JOB_APPLICATION.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\obj\Debug\net6.0-windows\ref\JOB_APPLICATION.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\obj\Debug\net6.0-windows\JOB_APPLICATION.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\JOB_APPLICATION\JOB_APPLICATION\obj\Debug\net6.0-windows\JOB_APPLICATION.genruntimeconfig.cache

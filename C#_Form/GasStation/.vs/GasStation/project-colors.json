@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eea67b36-0071-4ebf-9891-f51b344734d0": {
+      "ProjectGuid": "eea67b36-0071-4ebf-9891-f51b344734d0",
+      "DisplayName": "GasStation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

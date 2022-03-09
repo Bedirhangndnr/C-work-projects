@@ -1,0 +1,17 @@
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\bin\Debug\net6.0-windows\radiobuttom.exe
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\bin\Debug\net6.0-windows\radiobuttom.deps.json
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\bin\Debug\net6.0-windows\radiobuttom.runtimeconfig.json
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\bin\Debug\net6.0-windows\radiobuttom.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\bin\Debug\net6.0-windows\ref\radiobuttom.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\bin\Debug\net6.0-windows\radiobuttom.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\obj\Debug\net6.0-windows\radiobuttom.csproj.AssemblyReference.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\obj\Debug\net6.0-windows\radiobuttom.Form1.resources
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\obj\Debug\net6.0-windows\radiobuttom.csproj.GenerateResource.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\obj\Debug\net6.0-windows\radiobuttom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\obj\Debug\net6.0-windows\radiobuttom.AssemblyInfoInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\obj\Debug\net6.0-windows\radiobuttom.AssemblyInfo.cs
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\obj\Debug\net6.0-windows\radiobuttom.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\obj\Debug\net6.0-windows\radiobuttom.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\obj\Debug\net6.0-windows\ref\radiobuttom.dll
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\obj\Debug\net6.0-windows\radiobuttom.pdb
+C:\Users\USER1\Desktop\Web Programming\education\C#_Form\radiobuttom\radiobuttom\obj\Debug\net6.0-windows\radiobuttom.genruntimeconfig.cache

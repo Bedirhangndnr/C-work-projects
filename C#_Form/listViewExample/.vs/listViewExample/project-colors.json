@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f56d5fd1-4bb2-4c92-8c29-a5af6b573b95": {
+      "ProjectGuid": "f56d5fd1-4bb2-4c92-8c29-a5af6b573b95",
+      "DisplayName": "listViewExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
