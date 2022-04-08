@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "abf76bd0-2ed3-4ab8-a875-6e2ed125a835": {
+      "ProjectGuid": "abf76bd0-2ed3-4ab8-a875-6e2ed125a835",
+      "DisplayName": "SUDOKU",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

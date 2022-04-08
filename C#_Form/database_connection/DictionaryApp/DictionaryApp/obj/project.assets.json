@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER1\\Desktop\\Web Programming\\education\\C#_Form\\database_connection\\DictionaryApp\\DictionaryApp\\DictionaryApp.csproj",
+      "projectUniqueName": "C:\\Users\\USER1\\Documents\\GitHub\\C-work-projects\\C#_Form\\database_connection\\DictionaryApp\\DictionaryApp\\DictionaryApp.csproj",
       "projectName": "DictionaryApp",
-      "projectPath": "C:\\Users\\USER1\\Desktop\\Web Programming\\education\\C#_Form\\database_connection\\DictionaryApp\\DictionaryApp\\DictionaryApp.csproj",
+      "projectPath": "C:\\Users\\USER1\\Documents\\GitHub\\C-work-projects\\C#_Form\\database_connection\\DictionaryApp\\DictionaryApp\\DictionaryApp.csproj",
       "packagesPath": "C:\\Users\\USER1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER1\\Desktop\\Web Programming\\education\\C#_Form\\database_connection\\DictionaryApp\\DictionaryApp\\obj\\",
+      "outputPath": "C:\\Users\\USER1\\Documents\\GitHub\\C-work-projects\\C#_Form\\database_connection\\DictionaryApp\\DictionaryApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER1\\AppData\\Roaming\\NuGet\\NuGet.Config",

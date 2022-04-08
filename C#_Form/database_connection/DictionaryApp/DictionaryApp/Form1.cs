@@ -28,5 +28,27 @@ namespace DictionaryApp
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                MessageBox.Show("aaa");
+
+                conn.Open();
+                SqlCommand cmd = new SqlCommand("insert into ingturkce (a, b) values ('"+textBox1.Text + "','"+
+                    textBox2.Text +"')", conn);
+                SqlDataReader dr = cmd.ExecuteReader();
+                Console.WriteLine("query");
+                dr.Close();
+                MessageBox.Show("sözcük db'ye eklendi.");
+
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("quasery");
+                throw;
+            }
+        }
     }
 }

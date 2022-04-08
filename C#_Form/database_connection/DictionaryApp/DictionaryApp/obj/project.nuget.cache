@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VgfViiitiOPMWr89DofmvGU8EkADBrvoUn+9oX7t0DAcOJhfMAQqodBcYpXW/pEQ7l5CmMjg8FSyocrv01kPpw==",
+  "dgSpecHash": "gh5Gv9gQUEFRyNtOQM+/sJbI+FDJ3Y7ZMlS2tdcyy+3zKikOeoJl4eY2EWCmuvKP97hcAmq5llz5m4wy5TiZaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER1\\Desktop\\Web Programming\\education\\C#_Form\\database_connection\\DictionaryApp\\DictionaryApp\\DictionaryApp.csproj",
+  "projectFilePath": "C:\\Users\\USER1\\Documents\\GitHub\\C-work-projects\\C#_Form\\database_connection\\DictionaryApp\\DictionaryApp\\DictionaryApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER1\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\USER1\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
