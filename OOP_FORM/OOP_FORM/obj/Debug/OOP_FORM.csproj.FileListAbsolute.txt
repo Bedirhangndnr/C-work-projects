@@ -1,0 +1,11 @@
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.csproj.AssemblyReference.cache
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.Form1.resources
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.Properties.Resources.resources
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.csproj.GenerateResource.cache
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP_FORM\OOP_FORM\bin\Debug\OOP_FORM.exe.config
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP_FORM\OOP_FORM\bin\Debug\OOP_FORM.exe
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP_FORM\OOP_FORM\bin\Debug\OOP_FORM.pdb
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.exe
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP_FORM\OOP_FORM\obj\Debug\OOP_FORM.pdb

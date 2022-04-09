@@ -1,0 +1,8 @@
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP\OOP\obj\Debug\OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\USER1\Documents\GitHub\C-work-projects\OOP\OOP\obj\Debug\OOP.pdb

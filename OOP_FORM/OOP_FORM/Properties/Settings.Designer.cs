@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace OOP.Properties
+namespace OOP_FORM.Properties
 {
 
 
