@@ -1,0 +1,11 @@
+C:\Users\USER1\OneDrive\Masaüstü\denemesudoku\denemesudoku\obj\Debug\denemesudoku.csproj.AssemblyReference.cache
+C:\Users\USER1\OneDrive\Masaüstü\denemesudoku\denemesudoku\obj\Debug\denemesudoku.Form1.resources
+C:\Users\USER1\OneDrive\Masaüstü\denemesudoku\denemesudoku\obj\Debug\denemesudoku.Properties.Resources.resources
+C:\Users\USER1\OneDrive\Masaüstü\denemesudoku\denemesudoku\obj\Debug\denemesudoku.csproj.GenerateResource.cache
+C:\Users\USER1\OneDrive\Masaüstü\denemesudoku\denemesudoku\obj\Debug\denemesudoku.csproj.CoreCompileInputs.cache
+C:\Users\USER1\OneDrive\Masaüstü\denemesudoku\denemesudoku\bin\Debug\denemesudoku.exe.config
+C:\Users\USER1\OneDrive\Masaüstü\denemesudoku\denemesudoku\bin\Debug\denemesudoku.exe
+C:\Users\USER1\OneDrive\Masaüstü\denemesudoku\denemesudoku\bin\Debug\denemesudoku.pdb
+C:\Users\USER1\OneDrive\Masaüstü\denemesudoku\denemesudoku\obj\Debug\denemesudoku.exe
+C:\Users\USER1\OneDrive\Masaüstü\denemesudoku\denemesudoku\obj\Debug\denemesudoku.pdb
+C:\Users\USER1\OneDrive\Masaüstü\denemesudoku\denemesudoku\obj\Debug\denemesudoku.Form2.resources

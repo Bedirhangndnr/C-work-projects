@@ -1,0 +1,10 @@
+C:\Users\USER1\OneDrive\Masaüstü\Web Programming\EducationalProjects\PAINT\PAINT\bin\Debug\PAINT.exe.config
+C:\Users\USER1\OneDrive\Masaüstü\Web Programming\EducationalProjects\PAINT\PAINT\bin\Debug\PAINT.exe
+C:\Users\USER1\OneDrive\Masaüstü\Web Programming\EducationalProjects\PAINT\PAINT\bin\Debug\PAINT.pdb
+C:\Users\USER1\OneDrive\Masaüstü\Web Programming\EducationalProjects\PAINT\PAINT\obj\Debug\PAINT.csproj.AssemblyReference.cache
+C:\Users\USER1\OneDrive\Masaüstü\Web Programming\EducationalProjects\PAINT\PAINT\obj\Debug\PAINT.MyPaint.resources
+C:\Users\USER1\OneDrive\Masaüstü\Web Programming\EducationalProjects\PAINT\PAINT\obj\Debug\PAINT.Properties.Resources.resources
+C:\Users\USER1\OneDrive\Masaüstü\Web Programming\EducationalProjects\PAINT\PAINT\obj\Debug\PAINT.csproj.GenerateResource.cache
+C:\Users\USER1\OneDrive\Masaüstü\Web Programming\EducationalProjects\PAINT\PAINT\obj\Debug\PAINT.csproj.CoreCompileInputs.cache
+C:\Users\USER1\OneDrive\Masaüstü\Web Programming\EducationalProjects\PAINT\PAINT\obj\Debug\PAINT.exe
+C:\Users\USER1\OneDrive\Masaüstü\Web Programming\EducationalProjects\PAINT\PAINT\obj\Debug\PAINT.pdb
